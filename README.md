@@ -1,0 +1,1 @@
+# manga-plot-assistant
