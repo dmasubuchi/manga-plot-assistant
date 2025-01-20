@@ -63,8 +63,8 @@ Version：2.0
 
 ---
 
-プロンプトの全文は [manga-prot-assistant-vs.md](manga-prot-assistant-vs.md)  をご覧ください。
-[https://github.com/dmasubuchi/manga-plot-assistant/blob/main/manga-prot-assistant-v2.md](https://github.com/dmasubuchi/manga-plot-assistant/blob/main/manga-prot-assistant-v2.md)
+プロンプトの全文はこちら [https://github.com/dmasubuchi/manga-plot-assistant/blob/main/manga-prot-assistant-v2.md](https://github.com/dmasubuchi/manga-plot-assistant/blob/main/manga-prot-assistant-v2.md) をご覧ください。
+
 
 
 ## 参考文献
